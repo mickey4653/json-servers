@@ -1,7 +1,6 @@
 {
-   "resume": [
-    {
-     "info": {
+     "info": [
+      {
          "firstname": "Michael",
          "lastname": "Adeniyi",
          "email": "adeniyimichaelid@gmail.com",
@@ -10,14 +9,18 @@
          "github": "https://github.com/mickey4653/",
          "disabled": "false",
          "veteran": "false"
-     },
-     "summary": {
+     }
+   ],
+     "summary": [
+      {
           "about": "Michael Adeniyi is a Software Engineer with a broad skill set and a strong background in software development. His expertise encompasses full-stack development, including backend and microservices development, and he is well-versed in various programming languages, including Java, C, C++, JavaScript, Python, and PHP. Michael has hands-on experience with frameworks like AngularJS, NodeJS, and Spring Boot, and he's proficient in Git, SQL Workbench, and unit testing with JUnit and Web Selenium. He's also skilled in working with databases such as Oracle SQL, MySQL, and Microsoft SQL Server.", 
           "content2": "Michael holds a Master's in Software Engineering with a Minor in Cybersecurity from the University of Maryland, College Park, and a Bachelor's in Computer Science from Babcock University. He brings solid soft skills, attention to detail, problem-solving abilities, and strong communication skills to his work.",
           "content3": "Michael's professional experience includes his current role at ITECH Data Consult, where he has led the design and development of user-friendly web applications resulting in a 30% boost in user engagement. He has successfully collaborated with cross-functional teams to identify and resolve software defects, streamline testing processes, and integrate modern technologies into existing systems. Michael's commitment to staying updated with emerging technologies aligns perfectly with his career goal to grow into a leadership role while continuously expanding his software engineering skills.",
           "content4": "In addition to his professional experience, Michael has showcased leadership skills by leading several software development projects. Notably, he led the development of an online learning platform for UMD students, demonstrating his ability to conceptualize, plan, and execute innovative solutions to meet the needs of educational communities. Michael is passionate about technology and looks forward to bringing his expertise and enthusiasm to innovative organizations like yours."
-         },
-     "skills": {
+         }
+      ],
+     "skills": 
+      {
          "programminglanguages":[
              "Java",
              "C",
@@ -63,7 +66,8 @@
              "English",
              "Yoruba",
              "Turkish"
-         ],
+         ]
+      },
          "workExperience":[
              {
                  "company":"ITECH Data Consult",
@@ -132,6 +136,4 @@
              }
           ]
      }
-   } 
-]
-}
+
