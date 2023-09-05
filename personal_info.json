@@ -1,4 +1,5 @@
-{
+[
+   {
    "info": {
        "firstname": "Michael",
        "lastname": "Adeniyi",
@@ -131,3 +132,4 @@
         ]
    }
 }
+]
