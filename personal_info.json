@@ -1,4 +1,5 @@
-
+{
+   "resume": [
     {
      "info": {
          "firstname": "Michael",
@@ -131,4 +132,6 @@
              }
           ]
      }
- }
+   } 
+]
+}
